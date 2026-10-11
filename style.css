@@ -371,7 +371,7 @@ section {
   border-top-left-radius: 1rem;
   border-bottom-left-radius: 1rem;
   border-right: none;
-  color:white;
+  color: #fff;
 }
 .search-box button {
   padding: 1rem 1.5rem;
