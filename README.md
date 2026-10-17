@@ -1,5 +1,6 @@
 # Naruto Shippuden - Know Everything
 A fan website for naruto shippuden lovers. explore naruto's transformation, jutsu more..
+## Live demo **[DEMO](https://udayprakash999.github.io/Naruto-Shippuden/)**
 
 ## Features
 - naruto different transformation
